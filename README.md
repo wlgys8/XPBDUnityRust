@@ -139,10 +139,9 @@ $$
 
 也许继续优化公式能够进一步提升稳定性，但我没有继续研究了。
 
+# References
 
-# 项目地址
-
-最近工作比较忙，文章就越写越短了，请大家自己看源码吧:
+[[1] - XPBD论文解读(Extended Position-Based Dynamics)](https://zhuanlan.zhihu.com/p/406652407)
 
 
 
