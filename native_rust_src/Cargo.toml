@@ -1,0 +1,11 @@
+[package]
+name = "xpbd_simulation"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "xpbd_simulation"
+crate-type = ["cdylib"]
+
+[dependencies]
+nalgebra = "0.29.0"
